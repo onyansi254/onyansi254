@@ -1,33 +1,43 @@
 # 👋 Hi, I’m Richard Otwoma (@onyansi254)
+### 👀 What I’m Passionate About:
 
-### 👀 What I’m interested in:  
-- **Data Science:** Leveraging data to solve real-world problems with tools like Python, scikit-learn, pandas, and more.  
-- **Blockchain Technology:** Exploring the potential of decentralized systems to revolutionize industries.  
-- **Game Development:** Designing immersive gaming experiences that inspire and entertain.  
-- **Web3 & AI Applications:** Building innovative solutions that combine emerging technologies for impactful use cases.  
-
-### 🌱 What I’m currently learning:  
-- Advanced concepts in **blockchain technology** and **Web3 Distributed Ledger Technologies (DLT)**.  
-- **Relational Databases with MySQL** and ORM integration using Sequelize for scalable application development.  
-- Enhancing my understanding of **Retrieval-Augmented Generation (RAG)** for AI-powered systems.  
-- **Data Visualization** and **Mapping** techniques to tell compelling stories with data.
-
-### 💞️ What I’m looking to collaborate on:  
-- **Open-source projects** in data science, game development, and blockchain.  
-- Projects aimed at addressing global challenges, such as climate change, air quality analysis, and sustainability.  
-- **AI-driven tools** and applications that bridge the gap between cutting-edge technology and end-user needs.  
-
-### 📫 How to reach me:  
-- **Email:** [ronyansi11@gmail.com](mailto:ronyansi11@gmail.com)  
-- **GitHub:** [onyansi254](https://github.com/onyansi254)  
-- **LinkedIn:** [Richard Otwoma](https://www.linkedin.com/in/richard-otwoma-1b0145292/)  
-
-### 😄 Pronouns:  
-- He/Him  
-
-### ⚡ Fun fact:  
-I’m a lifelong learner with a passion for combining creativity and logic—whether it's building predictive models, crafting a compelling game world, or exploring how decentralized systems can reshape our future.  
+* **Web3 & Decentralized Technologies:** I explore how decentralized systems (blockchains, smart contracts, and distributed ledgers) can unlock new business models and empower individuals.
+* **Artificial Intelligence:** I build intelligent systems using cutting-edge AI techniques, with a focus on **Generative AI**, **LLMs**, and **Retrieval-Augmented Generation (RAG)** for smarter, more adaptive applications.
+* **Web3 + AI Synergy:** I’m particularly excited about merging Web3 and AI to create autonomous, transparent, and privacy-preserving applications.
 
 ---
 
-🌟 *Check out my repositories to explore projects where innovation meets curiosity!*  
+### 🌱 Currently Exploring:
+
+* Advanced **Web3 technologies** such as **DeFi**, **Decentralized Identity (DID)**, and next-gen consensus mechanisms.
+* **AI for Web3** — including decentralized AI agents, on-chain AI, and AI-optimized smart contracts.
+* Scalable **RAG pipelines** for knowledge-rich AI applications.
+
+---
+
+### 💞️ Open to Collaborations In:
+
+* **AI-Powered Web3 Projects:** Decentralized apps (dApps) enhanced with AI automation or recommendation systems.
+* **Privacy-Preserving AI** using blockchain and zero-knowledge proofs.
+* Tools that bridge AI and crypto for **creator economies**, **finance**, or **governance**.
+* Community-driven, open-source projects in the **Web3 + AI** intersection.
+
+---
+
+### 📫 Let’s Connect:
+
+* **Email:** [ronyansi11@gmail.com](mailto:ronyansi11@gmail.com)
+* **GitHub:** [onyansi254](https://github.com/onyansi254)
+* **LinkedIn:** [Richard Otwoma](https://www.linkedin.com/in/richard-otwoma-1b0145292/)
+
+---
+
+### 😄 Pronouns:
+
+* He/Him
+
+---
+
+### ⚡ Fun Fact:
+
+I'm fascinated by how **autonomous AI agents** could evolve into future decentralized organizations—blending human creativity, machine intelligence, and blockchain governance.
