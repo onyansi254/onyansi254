@@ -1,43 +1,71 @@
 # 👋 Hi, I’m Richard Otwoma (@onyansi254)
-### 👀 What I’m Passionate About:
 
-* **Web3 & Decentralized Technologies:** I explore how decentralized systems (blockchains, smart contracts, and distributed ledgers) can unlock new business models and empower individuals.
-* **Artificial Intelligence:** I build intelligent systems using cutting-edge AI techniques, with a focus on **Generative AI**, **LLMs**, and **Retrieval-Augmented Generation (RAG)** for smarter, more adaptive applications.
-* **Web3 + AI Synergy:** I’m particularly excited about merging Web3 and AI to create autonomous, transparent, and privacy-preserving applications.
+### 🚀 Builder | AI Enthusiast | Full-Stack Developer | Digital Entrepreneur
 
----
-
-### 🌱 Currently Exploring:
-
-* Advanced **Web3 technologies** such as **DeFi**, **Decentralized Identity (DID)**, and next-gen consensus mechanisms.
-* **AI for Web3** — including decentralized AI agents, on-chain AI, and AI-optimized smart contracts.
-* Scalable **RAG pipelines** for knowledge-rich AI applications.
+I’m passionate about building real-world digital solutions that combine **AI**, **modern web technologies**, and scalable business systems.
+From **finance platforms** and **marketplaces** to **AI-powered applications** and **automation systems**, I enjoy turning ideas into production-ready products.
 
 ---
 
-### 💞️ Open to Collaborations In:
+## 💡 What I’m Focused On
 
-* **AI-Powered Web3 Projects:** Decentralized apps (dApps) enhanced with AI automation or recommendation systems.
-* **Privacy-Preserving AI** using blockchain and zero-knowledge proofs.
-* Tools that bridge AI and crypto for **creator economies**, **finance**, or **governance**.
-* Community-driven, open-source projects in the **Web3 + AI** intersection.
+* **Artificial Intelligence & Automation**
+  Exploring Generative AI, LLMs, AI agents, and smart automation workflows that improve businesses and user experiences.
 
----
+* **Full-Stack Web Development**
+  Building responsive and scalable applications using modern frontend and backend technologies.
 
-### 📫 Let’s Connect:
+* **FinTech & Vehicle Finance Systems**
+  Creating platforms for car financing, logbook loans, vehicle imports, loan buyoffs, and digital financial services.
 
-* **Email:** [ronyansi11@gmail.com](mailto:ronyansi11@gmail.com)
-* **GitHub:** [onyansi254](https://github.com/onyansi254)
-* **LinkedIn:** [Richard Otwoma](https://www.linkedin.com/in/richard-otwoma-1b0145292/)
-
----
-
-### 😄 Pronouns:
-
-* He/Him
+* **Web3 & Emerging Technologies**
+  Interested in decentralized systems, blockchain innovation, and the future intersection of AI + Web3.
 
 ---
 
-### ⚡ Fun Fact:
+## 🛠️ Current Projects
 
-I'm fascinated by how **autonomous AI agents** could evolve into future decentralized organizations—blending human creativity, machine intelligence, and blockchain governance.
+* 🚗 Vehicle financing and auto-loan management platforms
+* 🛒 Marketplace systems competing with modern local platforms
+* 🤖 AI-integrated business tools and automation systems
+* 📊 Admin dashboards and analytics platforms
+* 🌐 Production-ready web apps deployed with modern cloud infrastructure
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+* Advanced AI integrations and autonomous agents
+* Scalable backend architectures
+* Cloud deployment & DevOps workflows
+* RAG systems and intelligent search pipelines
+* Secure payment integrations including M-Pesa
+
+---
+
+## 🤝 Open To Collaborations
+
+I’m open to collaborating on:
+
+* AI-powered startups
+* Full-stack web platforms
+* FinTech solutions
+* Open-source tools
+* Web3 + AI innovation
+* Scalable SaaS products
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [ronyansi11@gmail.com](mailto:ronyansi11@gmail.com)
+* 💻 GitHub: https://github.com/onyansi254
+* 🔗 LinkedIn: https://www.linkedin.com/in/richard-otwoma-1b0145292/
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming business ideas into fully functional digital platforms — from concept and branding to deployment and production systems.
+
+> “Build solutions that people actually use.”
