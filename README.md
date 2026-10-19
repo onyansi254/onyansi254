@@ -1,24 +1,47 @@
-# Hi, I'm Richard Otwoma (@onyansi254)
 
-## Software Engineer
+<h1 align="center">Richard Otwoma</h1>
 
-I'm a software engineer focused on building practical, reliable, and scalable applications. My primary stack is **Java with Spring Boot** and **PHP with Yii2**, with a strong interest in backend development, APIs, databases, payment systems, and software architecture.
+<h3 align="center">Software Engineer</h3>
 
-I enjoy solving real-world problems through code, understanding how systems work behind the scenes, and turning ideas into working products. I'm also exploring **blockchain development**, while experimenting with AI, machine learning, and data science in my spare time.
+<p align="center">
+  Backend engineering with Java, Spring Boot, PHP and Yii2.
+</p>
 
-My goal is to become a stronger engineer by building real projects, learning through experimentation, and writing software that people can depend on.
+<p align="center">
+  <a href="https://github.com/onyansi254">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Yii2-Framework-40A9FF?style=flat-square" alt="Yii2" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-## Technologies & Tools
+## About Me
 
-- **Languages:** Java, PHP, TypeScript, JavaScript, Python
-- **Backend:** Spring Boot, Yii2, Node.js, NestJS
-- **Databases:** PostgreSQL, MySQL, MariaDB
-- **Infrastructure:** Docker, Redis, RabbitMQ, Git, Maven
-- **Development:** REST APIs, database design, authentication, integrations, testing, and backend architecture
-- **Blockchain:** Exploring smart contracts, decentralized applications, and Web3 development
-- **Side Interests:** Artificial intelligence, machine learning, and data science
+I'm a software engineer focused on building practical, reliable, and maintainable applications.
+
+My primary technologies are **Java with Spring Boot** and **PHP with Yii2**. I enjoy backend development, API design, database engineering, payment integrations, and understanding how reliable software systems work.
+
+I'm also exploring blockchain development, including smart contracts and decentralized applications. AI, machine learning, and data science are additional interests I enjoy experimenting with in my spare time.
+
+I learn by building real projects, debugging problems, and continuously improving my engineering skills.
+
+---
+
+## Technologies and Tools
+
+| Area | Technologies |
+|---|---|
+| Languages | Java, PHP, TypeScript, JavaScript, Python |
+| Backend | Spring Boot, Yii2, Node.js, NestJS |
+| Databases | PostgreSQL, MySQL, MariaDB |
+| Infrastructure | Docker, Redis, RabbitMQ |
+| Development Tools | Git, Maven, REST APIs |
+| Other Interests | Blockchain, AI, machine learning, data science |
 
 ---
 
@@ -26,43 +49,48 @@ My goal is to become a stronger engineer by building real projects, learning thr
 
 ### CFHOP — Community Finance Health & Opportunity Platform
 
-Contributing to the backend of a community finance platform, with a focus on APIs, wallet functionality, financial workflows, and M-Pesa integration.
+Contributing to the backend of a community finance platform, focusing on APIs, wallet functionality, financial workflows, and M-Pesa integration.
 
 ### USSD Payment Switch
 
-Developing a payment-switch concept that connects USSD interactions, merchant payments, payment providers, and transaction processing.
+Developing a payment-switch concept involving USSD interactions, merchant payments, payment-provider responses, and transaction processing.
 
 ### VendiEngine
 
-Developing a multi-tenant e-commerce concept focused on online storefronts, inventory management, merchant operations, and digital payments.
+Developing a multi-tenant commerce concept focused on storefronts, inventory management, merchant operations, and digital payments.
 
 ---
 
-## What I'm Focused On
+## Engineering Focus
 
-- Improving my Java and Spring Boot backend engineering skills.
+- Backend engineering with Java and Spring Boot.
 - Building maintainable PHP applications with Yii2.
-- Understanding financial transactions, payment integrations, and reliable backend systems.
-- Learning blockchain development, including smart contracts and decentralized applications.
-- Improving my software testing, security, database design, and deployment skills.
-- Experimenting with AI, machine learning, and data science as personal interests.
+- Payment integrations, transaction processing, and database integrity.
+- API security, testing, system design, and deployment.
+- Blockchain development and smart contracts.
 
 ---
 
 ## Collaboration
 
-I'm interested in collaborating on backend applications, open-source projects, FinTech, payment infrastructure, blockchain development, and useful software products.
+I'm interested in collaborating on backend applications, open-source projects, FinTech infrastructure, blockchain development, and practical software products.
 
-I value clean code, practical solutions, continuous learning, and understanding a problem before writing code.
-
----
-
-## Connect With Me
-
-- **Email:** [ronyansi11@gmail.com](mailto:ronyansi11@gmail.com)
-- **GitHub:** [github.com/onyansi254](https://github.com/onyansi254)
-- **LinkedIn:** [Richard Otwoma](https://www.linkedin.com/in/richard-otwoma-1b0145292/)
+I value clean code, sound technical decisions, continuous learning, and solving problems through evidence rather than guesswork.
 
 ---
 
-> I learn by building, improve by debugging, and grow by solving real problems.
+## Connect
+
+<p align="center">
+  <a href="https://github.com/onyansi254">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/richard-otwoma-1b0145292/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:ronyansi11@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <em>I learn by building, improve by debugging, and grow by solving real problems.</em>
+</p>
